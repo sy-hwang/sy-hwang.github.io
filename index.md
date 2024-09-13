@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, I am a software developer at <strong>Samsung Electronics, VD Division</strong>, where I have been working since 2016. I have extensive experience in the <strong>Graphics domain</strong>, ranging from GPU performance and memory optimization in <strong>Graphics Systems</strong>, to developing a <strong>UIFW</strong> engine for UI applications, developing a 3D engine for <strong>avatar rendering</strong>, and leading on <strong>3D graphics</strong> services, including 3D model and motion creation. These vertical experiences in the Graphics domain have been invaluable in shaping my career.
+      
+Currently, I am deeply interested in utilizing Generative AI for <strong>creating and modifying 3D models and motions</strong>. My goal is to combine my hands-on experience in graphics with edge technologies to develop cutting-edge graphics solutions optimized for next-generation screens
 
 ## Research Interests
 
