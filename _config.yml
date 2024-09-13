@@ -1,8 +1,7 @@
 # Basic Information 
 title: Seoyoung Hwang
 position: SW Engineer
-affiliation: Samsung Electronics
-email: sheongee (at) gmail.com
+affiliation: Samsung Electronics co., ltd
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -17,6 +16,8 @@ cv_link: assets/files/cv_SeoyoungHwang.pdf
 github_link: https://github.com/sy-hwang
 #linkedin: https://www.linkedin.com/
 #twitter: https://twitter.com/
+samsung_Mail: mailto:sheong.hwang@samsung.com
+gMail: mailto:sheongee@gmail.com
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
